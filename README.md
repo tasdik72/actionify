@@ -149,10 +149,3 @@ The application will typically run on `http://localhost:5173` (or another availa
 └── README.md                   # This file
 ```
 
-## Contributing
-
-(If this were an open-source project, contribution guidelines would go here.)
-
-## License
-
-(License information would go here.)
