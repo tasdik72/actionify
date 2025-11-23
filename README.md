@@ -149,3 +149,5 @@ The application will typically run on `http://localhost:5173` (or another availa
 └── README.md                   # This file
 ```
 
+## Copyright
+Open for everyone. Enjoy your coding!
